@@ -1,0 +1,11 @@
+{
+  "name": "credits-waster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:millerpeterson/credits-waster.git",
+  "author": "Miller Peterson <miller.peterson@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "waste-time": "node waster.js"
+  }
+}
